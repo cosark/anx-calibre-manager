@@ -228,6 +228,10 @@ The application is configured via environment variables.
 | `DEFAULT_LLM_API_KEY` | The API key for the LLM service. | `""` |
 | `DEFAULT_LLM_MODEL` | The default model to use for the LLM service (e.g., `gpt-4`). | `""` |
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ANX%20Calibre%20Manager/)
+
 ## 🔧 Troubleshooting
 
 Here are some common issues and their solutions:
